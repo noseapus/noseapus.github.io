@@ -19,14 +19,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Aqua's Maths Notes
+title: Aqua Moye
 email: zcahrmo@ucl.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  My UCL maths notes
+  General homepage for me
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://zcahrmo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://noseapus.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: n/a
-github_username: zcahrmo
+github_username: noseapus
 
 
 # Build settings
