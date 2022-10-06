@@ -12,3 +12,6 @@ Instead, here is a list of noteable events and time cuts for the Big Bang Theory
 
 # The Chronology
 S2:E5: "The Euclid Alternative" 9:00. First time we see the desk-side wall of Sheldon's appartment
+
+In S1:E11 "The Pancake Batter Anomaly", we are first introduced to "Soft Kitty".
+![Music written out](https://raw.githubusercontent.com/noseapus/noseapus.github.io/master/soft%20kitty.png "Soft Kitty")
