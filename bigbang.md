@@ -11,8 +11,11 @@ As a future project, I would love to take the Big Bang Theory and edit out the l
 Instead, here is a list of noteable events and time cuts for the Big Bang Theory I have chosen to record
 
 # The Chronology
-S2:E5: "The Euclid Alternative" 9:00. First time we see the desk-side wall of Sheldon's appartment
+S2:E5 "The Euclid Alternative" 9:00. First time we see the desk-side wall of Sheldon's appartment
 
+S3:E14 "The Einstein Approximation". In the last scene (17:46), we see a flashback to earier in the episode (9:06), in what appears to be an extended, alternate cut of the infamous Ballpit Bazinga Scene.
+
+# Other notes
 In S1:E11 "The Pancake Batter Anomaly", we are first introduced to "Soft Kitty" in D.
 
 ![Music written out](https://raw.githubusercontent.com/noseapus/noseapus.github.io/master/soft%20kitty.png "Soft Kitty")
