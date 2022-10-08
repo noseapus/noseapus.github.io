@@ -25,3 +25,5 @@ In S1:E11 "The Pancake Batter Anomaly", we are first introduced to "Soft Kitty" 
 Subsequently however, an alternative version is sung, and in different keys, such as S3:E8 where it is sung in something approaching Db.
 
 ![Music written out](https://raw.githubusercontent.com/noseapus/noseapus.github.io/master/happy%20kitty%202.png "Soft Kitty altered")
+
+S3:E22, in the flashback to Sheldon and Leonard first signing the roommate aggreement, they agree to visit that moment in time should either of them invent time travel. However, in the opening of S1:E4 (later chronologically, but a previous episode), he ponders time travel, proclaiming that if he invents time travel, he would just give it back to himself. However, at this point, he would by his own logic, know he has not invented time travel.
