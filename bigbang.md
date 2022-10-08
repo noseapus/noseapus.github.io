@@ -10,16 +10,16 @@ As a future project, I would love to take the Big Bang Theory and edit out the l
 
 Instead, here is a list of noteable events and time cuts for the Big Bang Theory I have chosen to record
 
-# The Chronology
+## The Chronology
 S3:E14 "The Einstein Approximation". In the last scene (17:46), we see a flashback to earier in the episode (9:06), in what appears to be an extended, alternate cut of the infamous Ballpit Bazinga Scene.
 
 S3:E22 "The Staircase Implementation". This episode concerns Leonard moving in with Sheldon under the in-timeline guise of Leonard telling Penny about it. It also covers the first time he brought a girl over (Joyce Kim) and the events leading to the dysfunction of the elevator. Additionally we see Penny read a pregnancy test during her time in high school.
 
-# Other notes
+## Other notes
 
 S2:E5 "The Euclid Alternative" 9:00. First time we see the desk-side wall of Sheldon's appartment.
 
-## Soft Kitty
+### Soft Kitty
 
 In S1:E11 "The Pancake Batter Anomaly", we are first introduced to "Soft Kitty" in D.
 
@@ -29,5 +29,5 @@ Subsequently however, an alternative version is sung, and in different keys, suc
 
 ![Music written out](https://raw.githubusercontent.com/noseapus/noseapus.github.io/master/happy%20kitty%202.png "Soft Kitty altered")
 
-## Time travel
+### Time travel
 S3:E22, in the flashback to Sheldon and Leonard first signing the roommate aggreement, they agree to visit that moment in time should either of them invent time travel. However, in the opening of S1:E4 (later chronologically, but a previous episode), he ponders time travel, proclaiming that if he invents time travel, he would just give it back to himself. However, at this point, he would by his own logic, know he has not invented time travel.
