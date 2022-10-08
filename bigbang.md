@@ -22,7 +22,7 @@ In S1:E11 "The Pancake Batter Anomaly", we are first introduced to "Soft Kitty" 
 
 ![Music written out](https://raw.githubusercontent.com/noseapus/noseapus.github.io/master/soft%20kitty.png "Soft Kitty")
 
-Subsequently however, an alternative version is sung, and in different keys, such as S3:E8 where it is sung in something approaching Db.
+Subsequently however, an alternative version is sung, and in different keys, such as S3:E8 where it is sung in something approaching Db as a round, and at the end of S4:E2 as a round where Penny sings in C and Sheldon plays recorder in Db.
 
 ![Music written out](https://raw.githubusercontent.com/noseapus/noseapus.github.io/master/happy%20kitty%202.png "Soft Kitty altered")
 
