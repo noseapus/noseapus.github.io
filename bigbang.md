@@ -15,6 +15,8 @@ S3:E14 "The Einstein Approximation". In the last scene (17:46), we see a flashba
 
 S3:E22 "The Staircase Implementation". This episode concerns Leonard moving in with Sheldon under the in-timeline guise of Leonard telling Penny about it. It also covers the first time he brought a girl over (Joyce Kim) and the events leading to the dysfunction of the elevator. Additionally we see Penny read a pregnancy test during her time in high school.
 
+S5:E24 "The Countdown Reflection" is a series of flashbacks, interspersing Howard's Launch with the events leading up to that moment, with the couple trying to get married before the big event.
+
 ## Other notes
 
 S2:E5 "The Euclid Alternative" 9:00. First time we see the desk-side wall of Sheldon's appartment.
