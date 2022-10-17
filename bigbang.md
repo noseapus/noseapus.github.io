@@ -21,6 +21,8 @@ S5:E24 "The Countdown Reflection" is a series of flashbacks, interspersing Howar
 
 S2:E5 "The Euclid Alternative" 9:00. First time we see the desk-side wall of Sheldon's appartment.
 
+S6:E15 "The Spoiler Alert Segmentation" at 7:22 we see for the first time Howard's mum.
+
 ### Soft Kitty
 
 In S1:E11 "The Pancake Batter Anomaly", we are first introduced to "Soft Kitty" in D.
@@ -35,3 +37,6 @@ S5:E6 shows Sheldon's Mother singing Soft Kitty differently once again.
 
 ### Time travel
 S3:E22, in the flashback to Sheldon and Leonard first signing the roommate aggreement, they agree to visit that moment in time should either of them invent time travel. However, in the opening of S1:E4 (later chronologically, but a previous episode), he ponders time travel, proclaiming that if he invents time travel, he would just give it back to himself. However, at this point, he would by his own logic, know he has not invented time travel.
+
+### Howard's dad's letter
+S6:E19 "The Closet Reconfiguration" revolves around a letter Howard recieved from his father on his 18th birthday. This storyline climaxes with the gang each giving an possible answer to what is in the card, with the pretense that only one of them is correct. Howard later says he wants all of them to be true and Leneord says that one of them is. However, what if all of them, besides Sheldon's red herring, are true? The accounts the gang give are each very short; I would not believe any of them are the full contents of the envelope. Taken together, they tell a full story of Howard's dad's regret.
