@@ -14,7 +14,7 @@ The process is given here: [https://www.gov.uk/change-name-deed-poll/make-an-adu
 One only needs to write that one has done so, with two witnessess, and you will have legally changed your name. This is in fact the easy bit. The difficulty comes later in getting everyone to believe you.
 
 ### Make it look official
-To make it look more than a note on a piece of paper, make it a fancy note on a piece of paper. You don't need a "specialist agency or a solicitor" to do this; just a grandiose font and baroque language. Better yet, go to [https://www.freedeedpoll.org.uk/](https://www.freedeedpoll.org.uk/) and use their template. You'll get something like this:
+You don't need a "specialist agency or a solicitor" to do this; just a grandiose font and baroque language. Better yet, go to [https://www.freedeedpoll.org.uk/](https://www.freedeedpoll.org.uk/) and use their template. You'll get something like this:
 
 <img src="https://raw.githubusercontent.com/noseapus/noseapus.github.io/master/deed%20poll.png" alt="Deed Poll" width="400"/>
 <!---
@@ -22,19 +22,17 @@ To make it look more than a note on a piece of paper, make it a fancy note on a 
 --->
 
 ### Multiple originals
-I would recommend making multiple originals (also confusingly called "original copies") of your deed poll. Whilst some institutions are satisfied by photocopies or electronic scans, you may find multiple institutions want to see your original deed poll, and they wish to do so at the same time. Having multiple originals means you can satisfy them, without waiting for it to be given back before you send it off again.
+I would recommend making multiple originals (also confusingly called "original copies") of your deed poll. Doing this also means you (or the post) are less likely to accidentally lose the original(s) and you can send your deed poll to multiple institutions who want to see the original, at the same time.
 
 To have multiple originals, simply print off several of the unsigned deed poll, and with your witnessess, sign them all in turn.
 
-Doing this also means you are less likely to accidentally lose the original(s), and you may feel safe in not paying for special delivery. (Special delivery is a specific service Royal Mail offers, but in refering to this I also include tracked, signed for, 1st class etc. services.)
-
 ### Enrollment
-One way to do this which  the goverment mentions, but I do not recommend, is to get your deed poll enrolled. This costs £42.44 and involves putting your deed poll on public record. However, this is a double-edged sword. Whilst this allows anyone to see that your new name is legally your new name, it also allows anyone at all, for all time, to look up your deadname. This, the cost, and the incovinience mean that I would not recommend this path.
+Enrolling your deed poll costs £42.44 and involves putting your deed poll on public record. This is a double-edged sword. Whilst this allows anyone to see that your new name is legally your new name, it also allows anyone at all, for all time, to look up your deadname. This, the cost, and the incovinience mean that I would not recommend this path.
 
 ## Changing your name in practice.
 Now that you have changed your name legally, it is now your responsibility to change your name in practice by telling every person and service.
 
-Changing you name with services may seem daunting because they all seem to want evidence you don't have. My advice is thus:
+Changing your name with services may seem daunting because they all seem to want evidence you don't have. My advice is thus:
 
 ### Driving licence
 Changing your driving licence is the first step, since the only evidence you need is your deed poll. See [https://www.gov.uk/change-name-driving-licence](https://www.gov.uk/change-name-driving-licence). This is free, or if you want to update your photo at the same time, you can pay £17.
