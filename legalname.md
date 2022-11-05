@@ -1,7 +1,6 @@
 ---
 author: Aqua Moye
 title: On changing your legal name (UK)
-description: How to change your name by deed poll (for UK citizens)
 ---
 ## Preface
 How to change your name by deed poll (for UK citizens). A guide based on my experience.
