@@ -44,7 +44,7 @@ If you want to change your photo, you may need to get this signed by someone els
 ### Other places to change
 Some would-be forms of evidence can quickly verify your identity and new name by looking up your passport number, so by changing your passport next, the rest may be easier. 
 
-Bank statements, council letters, utility bills, payslips and hopital letters are often possible forms of evidence too. In my experience you can use your passport and/or drivers licence to change your name with these, and with your university, landlord, GP and everything else.
+Bank statements, council letters, utility bills, payslips and hopital letters are often possible forms of evidence too. In my experience you can use your passport and/or drivers licence, with your deed poll, to change your name with these, and with your university, landlord, GP and everything else.
 
 ## Other ruminations
 Changing your name legally doesn't seem too difficult in the UK as a UK citizen. (I managed to do so whilst having lost both my passport and drivers licence, thus having very little proof I was a real person, let alone a real person with a different name).
