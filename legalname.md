@@ -49,4 +49,8 @@ Bank statements, council letters, utility bills, payslips and hopital letters ar
 ## Other ruminations
 Changing your name legally doesn't seem too difficult in the UK as a UK citizen. (I managed to do so whilst having lost both my passport and drivers licence, thus having very little proof I was a real person, let alone a real person with a different name).
 
-Changing your gender is far more difficult.  You need too much proof of your acquired gender, and non-binary genders aren't recognised at all. My bank (HSBC) actually does allow you declare your gender (including non-binary), so even if you are misgendered and/or deadnamed on your driving licence and passport, you may wish to look into changing your gender on your bank card and elsewhere
+When changing the name on you passport, you are warned that "The name on your passport must match the one you use when you book your travel." This is probably good advice, but not strictly true. I was able to convince border security in Germany and the UK to let me through by having my deed poll and drivers licence with me.
+
+Changing your gender is far more difficult.  You need too much proof of your acquired gender, and non-binary genders aren't recognised at all. Let us hope the [Scottish Gender Recognition Reform Bill](https://www.parliament.scot/bills-and-laws/bills/gender-recognition-reform-scotland-bill) gets implimented, and that the rest of the UK follows suit
+
+My bank (HSBC) actually does allow you declare your gender (including non-binary), so even if you are misgendered and/or deadnamed on your driving licence and passport, you may wish to look into changing your gender on your bank card and elsewhere.
