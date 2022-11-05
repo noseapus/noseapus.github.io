@@ -26,6 +26,7 @@ One only needs to write that one has done so, with two witnessess, and you will 
 ### Make it look official
 To make it look more than a note on a piece of paper, make it a fancy note on a piece of paper. You don't need a "specialist agency or a solicitor" to do this; just a grandiose font and baroque language. Better yet, go to https://www.freedeedpoll.org.uk/ and use their template. You'll get something like this:
 
+<img src="https://raw.githubusercontent.com/noseapus/noseapus.github.io/master/deed%20poll.png" alt="Deed Poll" width="200"/>
 ![Deed Poll](https://raw.githubusercontent.com/noseapus/noseapus.github.io/master/deed%20poll.png "Deed Poll")
 
 ### Enrollment
