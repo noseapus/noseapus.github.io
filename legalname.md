@@ -26,8 +26,10 @@ One only needs to write that one has done so, with two witnessess, and you will 
 ### Make it look official
 To make it look more than a note on a piece of paper, make it a fancy note on a piece of paper. You don't need a "specialist agency or a solicitor" to do this; just a grandiose font and baroque language. Better yet, go to https://www.freedeedpoll.org.uk/ and use their template. You'll get something like this:
 
-<img src="https://raw.githubusercontent.com/noseapus/noseapus.github.io/master/deed%20poll.png" alt="Deed Poll" width="200"/>
+<img src="https://raw.githubusercontent.com/noseapus/noseapus.github.io/master/deed%20poll.png" alt="Deed Poll" width="400"/>
+<!---
 ![Deed Poll](https://raw.githubusercontent.com/noseapus/noseapus.github.io/master/deed%20poll.png "Deed Poll")
+--->
 
 ### Enrollment
 One way to do this which  the goverment mentions, but I do not recommend, is to get your deed poll enrolled. This costs £42.44 and involves putting your deed poll on public record. However, this is a double-edged sword. Whilst this allows anyone to see that your new name is legally your new name, it also allows anyone at all, for all time, to look up your deadname. This, the cost, and the incovinience mean that I would not recommend this path.
