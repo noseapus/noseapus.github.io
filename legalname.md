@@ -20,11 +20,11 @@ The first step to changing one's name is to create a deed poll.
 Making this, then getting everyone to belive it (easier said than done), is in fact the entire legal process to using a new name.
 
 ### How to make a dead poll
-The process is decribed by the goverment here: https://www.gov.uk/change-name-deed-poll/make-an-adult-deed-poll. It may seem too simple, but it is true.
+The process is decribed by the goverment here: [Gov deed poll](https://www.gov.uk/change-name-deed-poll/make-an-adult-deed-poll). It may seem too simple, but it is true.
 One only needs to write that one has done so, with two witnessess, and you will have legally changed your name. This is in fact the easy bit. The difficulty comes later in getting everyone to believe you.
 
 ### Make it look official
-To make it look more than a note on a piece of paper, make it a fancy note on a piece of paper. You don't need a "specialist agency or a solicitor" to do this; just a grandiose font and baroque language. Better yet, go to https://www.freedeedpoll.org.uk/ and use their template. You'll get something like this:
+To make it look more than a note on a piece of paper, make it a fancy note on a piece of paper. You don't need a "specialist agency or a solicitor" to do this; just a grandiose font and baroque language. Better yet, go to [Deed poll template](https://www.freedeedpoll.org.uk/) and use their template. You'll get something like this:
 
 <img src="https://raw.githubusercontent.com/noseapus/noseapus.github.io/master/deed%20poll.png" alt="Deed Poll" width="400"/>
 <!---
