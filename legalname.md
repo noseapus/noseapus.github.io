@@ -36,5 +36,7 @@ I would recommend making multiple originals (also confusingly called "original c
 
 To have multiple originals, simply print off several of the unsigned deed poll, and with your witnessess, sign them all in turn.
 
+Doing this also means you are less likely to accidentally lose the original(s), and you may feel safe in not paying for special delivery. (Special delivery is a specific service Royal Mail offers, but in refering to this I also include tracked, signed for, 1st class etc. services.)
+
 ### Enrollment
 One way to do this which  the goverment mentions, but I do not recommend, is to get your deed poll enrolled. This costs £42.44 and involves putting your deed poll on public record. However, this is a double-edged sword. Whilst this allows anyone to see that your new name is legally your new name, it also allows anyone at all, for all time, to look up your deadname. This, the cost, and the incovinience mean that I would not recommend this path.
