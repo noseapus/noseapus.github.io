@@ -40,3 +40,8 @@ Doing this also means you are less likely to accidentally lose the original(s), 
 
 ### Enrollment
 One way to do this which  the goverment mentions, but I do not recommend, is to get your deed poll enrolled. This costs £42.44 and involves putting your deed poll on public record. However, this is a double-edged sword. Whilst this allows anyone to see that your new name is legally your new name, it also allows anyone at all, for all time, to look up your deadname. This, the cost, and the incovinience mean that I would not recommend this path.
+
+## Changing your name in practice.
+Now that you have changed your name legally, it is now your responsibility (nay, your legal obligation?), to change your name in practice. This involves thinking of every single person and organisation that knows your deadname, and telling them to change it to your new name. 
+
+(Maybe I described this hyperbolically. I don't mean to scare you; I don't believe the government arrests people for languishing in this endevour. I mere wish to impress upon you thaat no-one is obliged to help.)
