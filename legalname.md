@@ -31,5 +31,10 @@ To make it look more than a note on a piece of paper, make it a fancy note on a 
 ![Deed Poll](https://raw.githubusercontent.com/noseapus/noseapus.github.io/master/deed%20poll.png "Deed Poll")
 --->
 
+### Multiple originals
+I would recommend making multiple originals (also confusingly called "original copies") of your deed poll. Whilst some institutions are satisfied by photocopies or electronic scans, you may find multiple institutions want to see your original deed poll, and they wish to do so at the same time. Having multiple originals means you can satisfy them, without waiting for it to be given back before you send it off again.
+
+To have multiple originals, simply print off several of the unsigned deed poll, and with your witnessess, sign them all in turn.
+
 ### Enrollment
 One way to do this which  the goverment mentions, but I do not recommend, is to get your deed poll enrolled. This costs £42.44 and involves putting your deed poll on public record. However, this is a double-edged sword. Whilst this allows anyone to see that your new name is legally your new name, it also allows anyone at all, for all time, to look up your deadname. This, the cost, and the incovinience mean that I would not recommend this path.
